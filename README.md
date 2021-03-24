@@ -19,3 +19,5 @@ My strengths are:<br/>
 -Website design<br/>
 <br/>
 Excited to hear about your project!<br/>
+
+![Darko's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkojohnson&show_icons=true&theme=radical)
