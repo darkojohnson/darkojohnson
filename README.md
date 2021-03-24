@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi, I am Darko!  👋
 
-<!--
-**darkojohnson/darkojohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build software products in the Trading/Investment/New Business industry.<br/>
+I also have 10 years of online eCommerce experience. I focuss on seeing things systemially yet unafraid to roll my sleeves up and create seamless designs.<br/>
+<br/>
+Why you should hire me:<br/>
+-Experience in simplifying sophisticated software products in the Trading/Investment/New Business tech industry.<br/>
+-Trading record of a solid understanding of UX principles and how to apply them.<br/>
+-Exellent communicator with experience bridging the gap between stakeholderes, researchers, and fellow designers.<br/>
+<br/>
+My strengths are:<br/>
+-Interactin design<br/>
+-Rapid Protytyping<br/>
+-Visual UI design<br/>
+-Wireframing<br/>
+-Hi-fidelity Mockup<br/>
+-Mobile UI<br/>
+-Graphic design<br/>
+-Website design<br/>
+<br/>
+Excited to hear about your project!<br/>
