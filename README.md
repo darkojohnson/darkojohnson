@@ -1,4 +1,4 @@
-### Hi, I am Darko!  👋
+### Hi!  👋
 
 I build software products in the Trading/Investment/New Business industry.<br/>
 I also have 10 years of online eCommerce experience. I focuss on seeing things systemially yet unafraid to roll my sleeves up and create seamless designs.<br/>
